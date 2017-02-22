@@ -16,7 +16,7 @@
   </div>
 </template>
 
-<script type="text/ecmascript-6">
+<script type = "text/ecmascript-6">
   import header from './components/header/header.vue';
 
   const ERR_OK = 0;
@@ -42,7 +42,7 @@
   };
 </script>
 
-<style lang="stylus" rel="stylesheet/stylus">
+<style lang = "stylus" rel = "stylesheet/stylus">
   @import "./common/stylus/mixin.styl"
   .tab
     display: flex
